@@ -1,3 +1,4 @@
 la liste des commandes que j'ai faites
 sur le comit est ls
 notes.txt
+-- Le numéro de commit de 'Mon premier commit est " : 7e29cc4
